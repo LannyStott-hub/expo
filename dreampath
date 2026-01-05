@@ -1,3 +1,4 @@
+npx eas-cli@latest init --id 7980f2be-4e3f-438a-a889-92d4cf98645e
 expo install @react-native-async-storage/async-storage
 {
   "dependencies": {
